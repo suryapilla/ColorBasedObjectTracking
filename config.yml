@@ -1,0 +1,6 @@
+
+input_type : webcam # image, video, webcam
+
+image_path : "./testData/img.png"
+
+video_path : "./testData/vid.mp4"
