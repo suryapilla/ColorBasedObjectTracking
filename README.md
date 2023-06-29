@@ -14,3 +14,8 @@
 3. Ex for webcam: python objectTracking.py -i webcam
 
 > Adjust the tracker to track various colored objects
+
+> Reference:
+1. https://www.youtube.com/watch?v=Cz56mNWYm6Y&list=PLGs0VKk2DiYxP-ElZ7-QXIERFFPkOuP4_&index=18
+2. https://www.youtube.com/watch?v=SjJ94eAn-a0&list=PLGs0VKk2DiYxP-ElZ7-QXIERFFPkOuP4_&index=19
+
